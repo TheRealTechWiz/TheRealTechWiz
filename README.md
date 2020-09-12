@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therealtechwiz" alt="therealtechwiz" /> </p>
 
-- 🔭 I’m currently working on [WomenSafe](github.com/TheRealTechWiz/WomenSafe-App)
+- 🔭 I’m currently working on [WomenSafe](/TheRealTechWiz/WomenSafe-App)
 
 - 👨‍💻 All of my projects are available at [https://prathamgoyal.tech/](https://prathamgoyal.tech/)
 
