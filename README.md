@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **WomenSafe**
 
-- 👨‍💻 All of my projects are available at [https://prathamgoyal.tech/](https://prathamgoyal.tech/)
+- 👨‍💻 All of my projects are available at [https://goyalpratham.me/](https://goyalpratham.me/)
 
 - 💬 Ask me about **Native Android development**
 
